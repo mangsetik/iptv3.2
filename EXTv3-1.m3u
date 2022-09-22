@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="TV Nasional",INDOSIAR
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
@@ -1319,7 +1318,7 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 group-title="VOD 2022",The Princess
 https://www.googleapis.com/drive/v3/files/1c85q14y1yYfI4QqfKiX24c2Or0Q-ga8n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",The Policeman’s Lineage
+#EXTINF:-1 group-title="VOD 2022",The PolicemanÂ’s Lineage
 https://www.googleapis.com/drive/v3/files/1cESCI_26bl6xR_4ZYlzC8wLM--Et5Mj9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Cracked
 https://www.googleapis.com/drive/v3/files/1-3hCkuPRyUtu86lQJsEMZsXqVqPT1PZ5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1433,9 +1432,9 @@ https://www.googleapis.com/drive/v3/files/14vIiLnsKDWvcGTsymjvpdGN8GhL-Wzoh?alt=
 https://www.googleapis.com/drive/v3/files/1uchXH9JsNhZXttJG3QyCxGTeUg5VA-x_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Black Site
 https://www.googleapis.com/drive/v3/files/1KYFOBcCzpxqTwa9Hq0VaD2usQmIDUPlP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Fortress: Sniper’s Eye
+#EXTINF:-1 group-title="VOD 2022",Fortress: SniperÂ’s Eye
 https://www.googleapis.com/drive/v3/files/1gGSUTFKYbzqWMkOIthdi7tkZ7zkU_aWr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",Rumspringa – Ein Amish in Berlin
+#EXTINF:-1 group-title="VOD 2022",Rumspringa Â– Ein Amish in Berlin
 https://www.googleapis.com/drive/v3/files/1jBwhA_lNSIRna1Ib4c9aM4AhXYc_-lt7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",The Aviary
 https://www.googleapis.com/drive/v3/files/16Ee9t0cm4IoubeFsXAGG3gYjRSUdfjhp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1473,7 +1472,7 @@ https://www.googleapis.com/drive/v3/files/1uXOFGFO7RqtjnsyCAgiBojmyfNy-J98U?alt=
 https://www.googleapis.com/drive/v3/files/1XGqjVZga-efMtqfwaHsvongtw3EQrtKN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",Ambulance
 https://www.googleapis.com/drive/v3/files/1nw4_xCSrz5g3ivpn7-gQSm_ruv6qxXix?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",You Won’t Be Alone
+#EXTINF:-1 group-title="VOD 2022",You WonÂ’t Be Alone
 https://www.googleapis.com/drive/v3/files/1M7PoWEpVRIPs9bn6peitjRKDNsq1n-aN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",The Cellar
 https://www.googleapis.com/drive/v3/files/1mJihZE9eGCHvd6eoEmyN8ZjRm8TcpjcI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1599,7 +1598,7 @@ https://www.googleapis.com/drive/v3/files/194wb7GLMxYWryOzoO_F42VDJt8xgoMGp?alt=
 https://www.googleapis.com/drive/v3/files/1s1L2sdJVTjAevllVpIiDvXs8hxiQSTIQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",The Royal Treatment
 https://www.googleapis.com/drive/v3/files/10KUObxm6bLYCNrVCmBd8po7oVsCQxyWp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2022",The King’s Daughter
+#EXTINF:-1 group-title="VOD 2022",The KingÂ’s Daughter
 https://www.googleapis.com/drive/v3/files/1fxW41ootucuEBZB3vgl2J3Z2fD_sW7Lv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2022",The House
 https://www.googleapis.com/drive/v3/files/1lobaiiaSHRWncAzvLYGfDn0lHxPr0Zrb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1609,7 +1608,7 @@ https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=
 
 #EXTINF:-1 group-title="VOD 2021",Attack on Finland
 https://www.googleapis.com/drive/v3/files/17MpBYj02H9tyCulSZV6RGawDQBjVDqLe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",It’s a Summer Film!
+#EXTINF:-1 group-title="VOD 2021",ItÂ’s a Summer Film!
 https://www.googleapis.com/drive/v3/files/1BvrEOons1Mmp_hU4sdx7XxRCh1rdslpW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Deep in the Forest
 https://www.googleapis.com/drive/v3/files/1OgkBc3vm2ztM7wzplN9UCSpR8ZnGY3FH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1639,7 +1638,7 @@ https://www.googleapis.com/drive/v3/files/1pp3PVwlOnQZDpOoQYcvX5C0p-1WkBbNp?alt=
 https://www.googleapis.com/drive/v3/files/1PBuUlJcLHhdmNLx-OujnRG12o81GOFrF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Hard Hit
 https://www.googleapis.com/drive/v3/files/1AkkJs9C-x9k2w7hbC4KowEb8R4iS09zX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",Hell’s Garden
+#EXTINF:-1 group-title="VOD 2021",HellÂ’s Garden
 https://www.googleapis.com/drive/v3/files/1-2iTaZTALkZuNPT5Mk4sX7OB2zyB8b0p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Trust
 https://www.googleapis.com/drive/v3/files/1jLpBGgQkIY83Q0bGYz8r1ueqdH2eGt5g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1659,9 +1658,9 @@ https://www.googleapis.com/drive/v3/files/1JhTTy0iriB3M2cS8cah98mfamgWPNIoB?alt=
 https://www.googleapis.com/drive/v3/files/1i36IrKHp7-IVWROi_A6VvRgCV0oh-TFd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Licorice Pizza
 https://www.googleapis.com/drive/v3/files/1RJfs8_HTCAY-1sdk_X1QyGWHA-sYB0O1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",Don’t Breathe 2
+#EXTINF:-1 group-title="VOD 2021",DonÂ’t Breathe 2
 https://www.googleapis.com/drive/v3/files/1AB8lh8LUu2krR1yniLyDhvEESO1g1cRL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",The King’s Man
+#EXTINF:-1 group-title="VOD 2021",The KingÂ’s Man
 https://www.googleapis.com/drive/v3/files/14rw7c__MeDfFeEVAK0ciWV_lFYtfiIAG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Nightmare Alley
 https://www.googleapis.com/drive/v3/files/1gNyX5zau_HMTNlWoK5e0V9ADAVuMjZwn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1685,7 +1684,7 @@ https://www.googleapis.com/drive/v3/files/1x1ONI78yALOn8k02aF_m0y2nBLG_p4_g?alt=
 https://www.googleapis.com/drive/v3/files/11NPY-A3SdkmCWC0NapvcietYavYBe-N_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Antlers
 https://www.googleapis.com/drive/v3/files/1e8yEhoiTHcq4MJo13LVzKLnycWrZLQfT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",Don’t Look Up
+#EXTINF:-1 group-title="VOD 2021",DonÂ’t Look Up
 https://www.googleapis.com/drive/v3/files/1jFJCWH9s9ofF_4Fz29lnR-UC3Dui9TRs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Death to 2021
 https://www.googleapis.com/drive/v3/files/1iZzzQEwjypD6WoGLrDKynJMWxZ0DCOcX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1729,7 +1728,7 @@ https://www.googleapis.com/drive/v3/files/1TWOFQLZrKYoWey1XCFw8XTXlfvQw0hdm?alt=
 https://www.googleapis.com/drive/v3/files/18qcu9okcj_fIatCyV4ogbLEtRF_Hd2LK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Spencer
 https://www.googleapis.com/drive/v3/files/1oo17LISDmpZigMuo852djbBv-oXIPH87?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",Tick, Tick… BOOM!
+#EXTINF:-1 group-title="VOD 2021",Tick, TickÂ… BOOM!
 https://www.googleapis.com/drive/v3/files/1qpjHvuwHVjTyJibjcmpXBA4bC7myH4Aq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Last Night in Soho
 https://www.googleapis.com/drive/v3/files/12NWts_1iYmgpps7Mds7bv46hFbyWn6jH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1753,7 +1752,7 @@ https://www.googleapis.com/drive/v3/files/1GSvJcy8pfhsw1lxTQ5cI2jN79S4uhTDN?alt=
 https://www.googleapis.com/drive/v3/files/1dCgh7pODt2kL8sdoBHGlcAFApochGPy5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Love Hard
 https://www.googleapis.com/drive/v3/files/1dE6VcrxGvEu8Wb6DDlkCaDz-fKIrwc7d?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2021",You’re Not Normal, Either!
+#EXTINF:-1 group-title="VOD 2021",YouÂ’re Not Normal, Either!
 https://www.googleapis.com/drive/v3/files/1igK4ES4T7L06qQUfnb0kYC7W0kfM6UwI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Black Light 
 https://www.googleapis.com/drive/v3/files/1yYHSIqSXRuqsVQvGBLay6FfHQrQfZCFz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1813,7 +1812,7 @@ https://www.googleapis.com/drive/v3/files/16BMIGIkJMKQy9iIyQiZ7TwK0V8GCWWrF?alt=
 https://www.googleapis.com/drive/v3/files/1lK6ARVLXuumNNPZcM9mIul_b8-XWOSc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2022",Totsukuni no Shoujo
 https://www.googleapis.com/drive/v3/files/1gQ77UYI3B0Y8c7781kZRNuzSwkxROuC4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi 2022",Chip ‘n Dale: Rescue Rangers
+#EXTINF:-1 group-title="VOD Animasi 2022",Chip Â‘n Dale: Rescue Rangers
 https://www.googleapis.com/drive/v3/files/19Nz2pcxVLO15CktHxBWdJMfW3WjdHXUk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2022",Sonic the Hedgehog 2
 https://www.googleapis.com/drive/v3/files/1tDbIYc1RNBS6AC41DO-iEEMse2yLSDZN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1841,7 +1840,7 @@ https://www.googleapis.com/drive/v3/files/1s7gMJQSEkGwj8-wriAR9Vta29AFBtp0C?alt=
 https://www.googleapis.com/drive/v3/files/1eKjkQ6QySaWzJ5I9NVIjGDD8q-Oaa5Kb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2021",Ghost in the Shell: SAC_2045 Sustainable War
 https://www.googleapis.com/drive/v3/files/13hgJ12WnNRJKrxiLe1BbR2JBTq5T0hrI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi 2021",Fate/kaleid liner Prisma?Illya Movie: Licht – Namae no Nai Shoujo
+#EXTINF:-1 group-title="VOD Animasi 2021",Fate/kaleid liner Prisma?Illya Movie: Licht Â– Namae no Nai Shoujo
 https://www.googleapis.com/drive/v3/files/102qddAr_-2mfVg1Qy0-En4ZrBxsuw0ou?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2021",Summer Ghost
 https://www.googleapis.com/drive/v3/files/1i2-I2lQxsqxDH33U4eorX5P6qI0v3_X8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1849,9 +1848,9 @@ https://www.googleapis.com/drive/v3/files/1i2-I2lQxsqxDH33U4eorX5P6qI0v3_X8?alt=
 https://www.googleapis.com/drive/v3/files/15Aa7OlKnkq8yNhGuibWSwQ5P3ACotYVU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2021",Peter Rabbit 2: The Runaway
 https://www.googleapis.com/drive/v3/files/1uH-WMMRhxeY6Jkl4ddYot-QHn37hFovx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi 2021",Boku no Hero Academia: World Heroes’ Mission
+#EXTINF:-1 group-title="VOD Animasi 2021",Boku no Hero Academia: World HeroesÂ’ Mission
 https://www.googleapis.com/drive/v3/files/1xUUbFfIBSyjHNezbiA-X4Isx2fcKrx9I?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi 2021",Fate/Grand Order Final Singularity – Grand Temple of Time: Solomon
+#EXTINF:-1 group-title="VOD Animasi 2021",Fate/Grand Order Final Singularity Â– Grand Temple of Time: Solomon
 https://www.googleapis.com/drive/v3/files/1zYiAMeghF0Q0kpOAopGejyJLAxhMD67e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi 2021",Encanto
 https://www.googleapis.com/drive/v3/files/1-yssqL4NzWZcPlMWgXgo5aZAHf-pdcyE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
